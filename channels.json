@@ -1,0 +1,199 @@
+{"channels":[{
+
+    "name":"Sports18 1 HD",
+
+    "image":"https://cdn.viacom18.com/stg/wp-content/uploads/2022/04/22172843/sports18logoforinnerpage.jpg",
+
+    "link":"https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd",
+
+    "type":"dash",
+
+    "licence_url":"https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=d86185f50f5952589c280167ee8e45c5&key=6bff81346539e4bcc9abdb351f1c855e",
+
+    "origin":"origin",
+
+    "referer":"referer",
+
+    "cookie":"cookie",
+
+    "useragent":"useragent"},{
+
+    "name":"Star Sports 1 Hindi HD",
+
+    "image":"https://jioimages.cdn.jio.com/imagespublic/17/33/StarSports1Hindi_1602528031137_tv.jpg",
+
+    "link":"https://delta4tatasky.akamaized.net/out/i/6527246.mpd",
+
+    "type":"dash",
+
+    "licence_url":"https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=f201d49f317b4b09918f89f5618c7fe9&key=0be2aa8395067137faba42523076a3cb",
+
+    "origin":"origin",
+
+    "referer":"referer",
+
+    "cookie":"cookie",
+
+    "useragent":"useragent"},{
+
+    "name":"Star Sports 1 HD",
+
+    "image":"https://jioimages.cdn.jio.com/imagespublic/70/62/StarSports1_1578068317662_tv.jpg",
+
+    "link":"https://delta14tatasky.akamaized.net/out/i/7136433.mpd",
+
+    "type":"dash",
+
+    "licence_url":"https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=498f34f9a1fe4ae3ab19903090675a1b&key=ce4f9c8b4e31904857089c37858c2c2a",
+
+    "origin":"origin",
+
+    "referer":"referer",
+
+    "cookie":"cookie",
+
+    "useragent":"useragent"},{
+
+    "name":"Star Sports 2 HD",
+
+    "image":"https://jioimages.cdn.jio.com/imagespublic/28/82/StarSports2_1578127392564_tv.jpg",
+
+    "link":"https://delta13tatasky.akamaized.net/out/i/2285199.mpd",
+
+    "type":"dash",
+
+    "licence_url":"https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=ef24fd519715482b8b8f44242bc8d720&key=8ab7ed4e8edb36d0c61f38877a1e0001",
+
+    "origin":"origin",
+
+    "referer":"referer",
+
+    "cookie":"cookie",
+
+    "useragent":"useragent"},{
+
+    "name":"Star Sports Select 1 HD",
+
+    "image":"https://jioimages.cdn.jio.com/imagespublic/11/5/StarSportsSelectHD1_1578127073527_tv.jpg",
+
+    "link":"https://delta14tatasky.akamaized.net/out/i/4779611.mpd",
+
+    "type":"dash",
+
+    "licence_url":"https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=ebe2bf81630c4f55b13ce2d5de501a7e&key=00673790ff976ce11bd2d3701aa8479b",
+
+    "origin":"origin",
+
+    "referer":"referer",
+
+    "cookie":"cookie",
+
+    "useragent":"useragent"},{
+
+    "name":"Star Sports Select 2 HD",
+
+    "image":"https://jioimages.cdn.jio.com/imagespublic/44/98/StarSportsSelectHD2_1578068121462_tv.jpg",
+
+    "link":"https://delta43tatasky.akamaized.net/out/i/18038.mpd",
+
+    "type":"dash",
+
+    "licence_url":"https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=72128b54ec9b44f4b2de808123155804&key=447524af6faa0e9b56d808a9f8b958db",
+
+    "origin":"origin",
+
+    "referer":"referer",
+
+    "cookie":"cookie",
+
+    "useragent":"useragent"},{
+
+    "name":"Sony TEN1 HD",
+
+    "image":"https://images.slivcdn.com/landscape_thumb/Sony_TEN1HD_23oct_landscape_thumb.jpg",
+
+    "link":"https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8",
+
+    "type":"m3u8",
+
+    "licence_url":"licence url",
+
+    "origin":"origin",
+
+    "referer":"referer",
+
+    "cookie":"cookie",
+
+    "useragent":"useragent"},{
+
+    "name":"Sony TEN2 HD",
+
+    "image":"https://images.slivcdn.com/landscape_thumb/Sony_TEN2HD_23oct_landscape_thumb.jpg",
+
+    "link":"https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8",
+
+    "type":"m3u8",
+
+    "licence_url":"licence url",
+
+    "origin":"origin",
+
+    "referer":"referer",
+
+    "cookie":"cookie",
+
+    "useragent":"useragent"},{
+
+    "name":"Sony TEN3 HD",
+
+    "image":"https://images.slivcdn.com/landscape_thumb/Sony_TEN3HD_23oct_landscape_thumb.jpg",
+
+    "link":"https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8",
+
+    "type":"m3u8",
+
+    "licence_url":"licence url",
+
+    "origin":"origin",
+
+    "referer":"referer",
+
+    "cookie":"cookie",
+
+    "useragent":"useragent"},{
+
+    "name":"Sony TEN4 HD",
+
+    "image":"https://images.slivcdn.com/landscape_thumb/Sony_TEN4HD_23oct_landscape_thumb.jpg",
+
+    "link":"https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8",
+
+    "type":"m3u8",
+
+    "licence_url":"licence url",
+
+    "origin":"origin",
+
+    "referer":"referer",
+
+    "cookie":"cookie",
+
+    "useragent":"useragent"},{
+
+    "name":"Sony TEN5 HD",
+
+    "image":"https://images.slivcdn.com/landscape_thumb/Sony_TEN5HD_23oct_landscape_thumb.jpg",
+
+    "link":"https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8",
+
+    "type":"m3u8",
+
+    "licence_url":"licence url",
+
+    "origin":"origin",
+
+    "referer":"referer",
+
+    "cookie":"cookie",
+
+    "useragent":"useragent"}]}
