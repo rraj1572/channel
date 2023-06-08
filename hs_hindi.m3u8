@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=198000,AVERAGE-BANDWIDTH=180400,RESOLUTION=320x180,FRAME-RATE=25,CODECS="avc1.42c00d,mp4a.40.2"
+/hls/live/2003704/inallow-icc-wtc2023/hin/1540023548/15mindvrm01965f3b31530049bd859d7f7eb410a39608june2023/master_1.m3u8?random=2-inallow-icc-wtc2023&content_id=1540023548&language=hindi&resolution=320x180&hash=28ea&bandwidth=180400&media_codec=h264&audio_codec=aac&layer=child&playback_proto=http&playback_host=live12p-pristine-akt.cdn.hotstar.com&si_match_id=708280
+#EXT-X-STREAM-INF:BANDWIDTH=325600,AVERAGE-BANDWIDTH=290400,RESOLUTION=426x240,FRAME-RATE=25,CODECS="avc1.4d4015,mp4a.40.2"
+/hls/live/2003704/inallow-icc-wtc2023/hin/1540023548/15mindvrm01965f3b31530049bd859d7f7eb410a39608june2023/master_2.m3u8?random=2-inallow-icc-wtc2023&content_id=1540023548&language=hindi&resolution=426x240&hash=5aec&bandwidth=290400&media_codec=h264&audio_codec=aac&layer=child&playback_proto=http&playback_host=live12p-pristine-akt.cdn.hotstar.com&si_match_id=708280
+#EXT-X-STREAM-INF:BANDWIDTH=389400,AVERAGE-BANDWIDTH=345400,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.77.30,mp4a.40.2"
+/hls/live/2003704/inallow-icc-wtc2023/hin/1540023548/15mindvrm01965f3b31530049bd859d7f7eb410a39608june2023/master_3.m3u8?random=2-inallow-icc-wtc2023&content_id=1540023548&language=hindi&resolution=640x360&hash=356c&bandwidth=345400&media_codec=h264&audio_codec=aac&layer=child&playback_proto=http&playback_host=live12p-pristine-akt.cdn.hotstar.com&si_match_id=708280
+#EXT-X-STREAM-INF:BANDWIDTH=555280,AVERAGE-BANDWIDTH=488400,RESOLUTION=854x480,FRAME-RATE=25,CODECS="avc1.4d401f,mp4a.40.2"
+/hls/live/2003704/inallow-icc-wtc2023/hin/1540023548/15mindvrm01965f3b31530049bd859d7f7eb410a39608june2023/master_4.m3u8?random=2-inallow-icc-wtc2023&content_id=1540023548&language=hindi&resolution=854x480&hash=924e&bandwidth=488400&media_codec=h264&audio_codec=aac&layer=child&playback_proto=http&playback_host=live12p-pristine-akt.cdn.hotstar.com&si_match_id=708280
